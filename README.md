@@ -22,7 +22,7 @@ A simple home automation project that demonstrates controlling devices using **A
 ---
 
 ## ⚡ Circuit Diagram
-![Circuit Diagram](Images/circuit_diagram.png)
+![Circuit Diagram](Images/circuit_diagram.jpg)
 
 ---
 
@@ -44,7 +44,7 @@ A simple home automation project that demonstrates controlling devices using **A
 ---
 
 ## 🧩 Arduino Code
-You can find the Arduino code [here](Arduino/HomeAutomation.ino).
+You can find the Arduino code [here](Arduino/HomeAutomation.ino.txt).
 
 ---
 
@@ -56,7 +56,7 @@ You can find the Python script [here](Python/home_automation.py).
 ## 🖼️ Demo
 Photo showcasing the project in action.  
 Example:  
-![Project Demo](Images/project_demo.png)
+![Project Demo](Images/project_demo.jpg)
 
 ---
 
@@ -71,9 +71,9 @@ HomeAutomation-Bluetooth-Arduino
 │   ├── home_automation.py      # Python script
 │
 ├── Images
-│   ├── circuit_diagram.png     # Circuit diagram image
-│   ├── project_demo.png        # Demo image of your project
+│   ├── circuit_diagram.jpg     # Circuit diagram image
+│   ├── project_demo.jpg        # Demo image of your project
 │
 ├── README.md                   # Documentation for the project
-│
-└── LICENSE                     # License file (optional, e.g., MIT License)
+
+
