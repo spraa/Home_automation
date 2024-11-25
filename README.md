@@ -44,7 +44,7 @@ A simple home automation project that demonstrates controlling devices using **A
 ---
 
 ## 🧩 Arduino Code
-You can find the Arduino code [here](Arduino/HomeAutomation.ino.txt).
+You can find the Arduino code [here](Home_automation/Arduino/HomeAutomation.ino.txt).
 
 ---
 
