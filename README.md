@@ -54,8 +54,6 @@ You can find the Python script [here](Home_automation/Python/home_automation.py)
 ---
 
 ## 🖼️ Demo
-Photo showcasing the project in action.  
-Example:  
 ![Project Demo](Home_automation/Images/project_demo.jpg).
 
 ---
