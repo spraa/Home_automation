@@ -22,7 +22,7 @@ A simple home automation project that demonstrates controlling devices using **A
 ---
 
 ## ⚡ Circuit Diagram
-![Circuit Diagram](Home_automation/Images/circuit _diagram.jpg).
+![Circuit Diagram](Home_automation/Images/circuit_diagram.jpg)
 
 ---
 
