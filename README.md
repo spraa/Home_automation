@@ -22,7 +22,7 @@ A simple home automation project that demonstrates controlling devices using **A
 ---
 
 ## ⚡ Circuit Diagram
-![Circuit Diagram](Images/circuit_diagram.jpg)
+![Circuit Diagram](Home_automation/Images/circuit _diagram.jpg).
 
 ---
 
@@ -49,14 +49,14 @@ You can find the Arduino code [here](Home_automation/Arduino/HomeAutomation.ino.
 ---
 
 ## 🐍 Python Code
-You can find the Python script [here](Python/home_automation.py).
+You can find the Python script [here](Home_automation/Python/home_automation.py).
 
 ---
 
 ## 🖼️ Demo
 Photo showcasing the project in action.  
 Example:  
-![Project Demo](Images/project_demo.jpg)
+![Project Demo](Home_automation/Images/project_demo.jpg).
 
 ---
 
